@@ -1,0 +1,3 @@
+/Users/jackprograms/CLionProjects/asmatical/cmake-build-debug/CMakeFiles/asmatical.dir
+/Users/jackprograms/CLionProjects/asmatical/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jackprograms/CLionProjects/asmatical/cmake-build-debug/CMakeFiles/rebuild_cache.dir
